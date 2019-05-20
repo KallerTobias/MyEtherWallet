@@ -1,0 +1,10 @@
+{
+  "txTotal": "Transaction Total",
+  "scanQrCode": "QR Code scannen um sofort zu tauschen oder überweisen",
+  "signingAddr": "Adresse signieren",
+  "messageInHex": "Nachricht in hex konvertieren",
+  "confirmSigning": "Signatur bestätigen",
+  "approveOnDevice": "Bitte auf der Hardwarewallet bestätigen",
+  "success": "Erfolgreich",
+  "error": "Fehler"
+}
